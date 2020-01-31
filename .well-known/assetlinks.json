@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.rodrigo.roomrep",
+    "sha256_cert_fingerprints":
+    ["36:89:0D:37:FF:77:E4:9E:68:20:C2:63:51:69:94:0F:B9:24:1C:23:02:3F:23:10:BA:F6:B0:8C:B8:3A:F9:0E"]
+  }
+}]
